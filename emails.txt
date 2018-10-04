@@ -1,3 +1,7 @@
-mail1,senha1
-mail2,senha2
-mail3,senha3
+mail1,password1
+mail2,password2
+mail3,password3
+.
+.
+.
+mailn,passwordn

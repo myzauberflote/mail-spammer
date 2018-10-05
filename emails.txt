@@ -1,0 +1,7 @@
+mail1,password1
+mail2,password2
+mail3,password3
+.
+.
+.
+mailn,passwordn
